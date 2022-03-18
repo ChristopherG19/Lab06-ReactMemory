@@ -27,6 +27,7 @@ const App = () => {
   const Fondo2 = {
     background: '#A9DFBF',
     textAlign: 'center',
+    fontFamily: 'Courier New, Courier, monospace',
     margin: '0'
   }
 
